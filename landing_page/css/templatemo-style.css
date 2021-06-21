@@ -196,7 +196,7 @@ img
     }
 .navbar-default .navbar-brand
     {
-        color: #28a7e9;
+        color: #247b1c;
         font-size: 30px;
         font-weight: bold;
         height: 70px;
@@ -214,7 +214,7 @@ img
 .navbar-default .nav li a:focus,
 .navbar-default .nav li a.current
     {
-        color: #28a7e9;
+        color: #247b1c;
     }
 
 .navbar-default .navbar-toggle
@@ -290,7 +290,7 @@ img
     }
 #feature .fa
     {
-        background: #28a7e9;
+        background: #247b1c;
         border-radius: 50%;
         color: #fff;
         display: inline-block;
@@ -318,7 +318,7 @@ img
     }
 #feature1 .fa
     {
-        background: #28a7e9;
+        background: #247b1c;
         border-radius: 50%;
         color: #fff;
         display: inline-block;
@@ -333,7 +333,7 @@ img
 /* start pricing */
 #pricing .fa
     {
-        background: #28a7e9;
+        background: #247b1c;
         border-radius: 50%;
         color: #fff;
         display: inline-block;
@@ -365,7 +365,7 @@ img
     }
 #pricing .pricing .pricing-title
     {
-        background: #28a7e9;
+        background: #247b1c;
         color: #fff;
         font-weight: bold;
         padding: 30px;
@@ -388,7 +388,7 @@ img
 #pricing .pricing .btn
     {
         background: transparent;
-        border: 1px solid #28a7e9;
+        border: 1px solid #247b1c;
         border-radius: 0px;
         color: #28a7e9;
         font-weight: bold;
@@ -399,7 +399,7 @@ img
         transition: all 0.3s ease;
     }
 #pricing .pricing .btn:hover {
-    background: #28a7e9;
+    background: #247b1c;
     color: #fff;
 }
 /* end pricing */
@@ -407,7 +407,7 @@ img
 /* start gears*/
 #gears .fa
     {
-        background: #28a7e9;
+        background: #247b1c;
         border-radius: 50%;
         color: #fff;
         display: inline-block;
@@ -439,7 +439,7 @@ img
     }
 #gears .pricing .pricing-title
     {
-        background: #28a7e9;
+        background: #247b1c;
         color: #fff;
         font-weight: bold;
         padding: 30px;
@@ -462,7 +462,7 @@ img
 #gears .pricing .btn
     {
         background: transparent;
-        border: 1px solid #28a7e9;
+        border: 1px solid #247b1c;
         border-radius: 0px;
         color: #28a7e9;
         font-weight: bold;
@@ -501,7 +501,7 @@ img
     }
 #news .pricing .pricing-title
     {
-        background: #28a7e9;
+        background: #247b1c;
         color: #fff;
         font-weight: bold;
         padding: 30px;
@@ -524,7 +524,7 @@ img
 #news .pricing .btn
     {
         background: transparent;
-        border: 1px solid #28a7e9;
+        border: 1px solid #247b1c;
         border-radius: 0px;
         color: #28a7e9;
         font-weight: bold;
@@ -535,7 +535,7 @@ img
         transition: all 0.3s ease;
     }
 #news .pricing .btn:hover {
-    background: #28a7e9;
+    background: #247b1c;
     color: #fff;
 }
 /* end news */
@@ -576,7 +576,7 @@ img
     }
 #contact address .fa
     {
-        background: #28a7e9;
+        background: #247b1c;
         border-radius: 50%;
         width: 40px;
         height: 40px;
@@ -602,7 +602,7 @@ img
     }
 #contact input[type="submit"]
     {
-        background: #28a7e9;
+        background: #247b1c;
         color: #fff;
         font-weight: bold;
         transition: all 0.3s ease;
