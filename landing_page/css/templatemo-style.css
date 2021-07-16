@@ -302,6 +302,35 @@ img
     }
 /* end feature */
 
+/* start feature_jump */
+#feature_jump
+    {
+        background: #f8f8f8;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+#feature_jump p
+    {
+        padding-top: 10px;
+    }
+#feature_jump span
+    {
+        float: left;
+    }
+#feature_jump .fa
+    {
+        background: #247b1c;
+        border-radius: 50%;
+        color: #fff;
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        margin-right: 20px;
+    }
+/* end feature_jump */
+
 /* start feature1 */
 #feature1
     {
